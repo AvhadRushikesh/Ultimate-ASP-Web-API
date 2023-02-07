@@ -31,3 +31,16 @@ D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\obj\Debug\net7.0\refi
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\obj\Debug\net7.0\HotelListing.API.pdb
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\obj\Debug\net7.0\HotelListing.API.genruntimeconfig.cache
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\obj\Debug\net7.0\ref\HotelListing.API.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Expressions.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Sinks.PeriodicBatching.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Serilog.Sinks.Seq.dll
