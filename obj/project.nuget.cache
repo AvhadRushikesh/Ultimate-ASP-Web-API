@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jGaDFwK9C1SiT0/Pr2SwvnSYyPNgsq4xLTsVQxPGhwCg8whARTsicG2xRJUA32Zbvce0hDaxjwPvO4+H7RQC8w==",
+  "dgSpecHash": "DFjOf3r0Trrjt/JI2RYc1VYNTg4QCIbNKMdtqwoyPF1zgY9EPflKBusFAJt1EChUwsyipm72F9ZA/NybKfPLMQ==",
   "success": true,
   "projectFilePath": "D:\\SMBios\\Training\\Udemy\\Ultimate Web API\\HotelListing.API\\HotelListing.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\misal\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
