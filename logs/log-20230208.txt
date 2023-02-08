@@ -23,3 +23,46 @@
 2023-02-08 20:15:41.011 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 1.2062 ms
 2023-02-08 20:15:41.884 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 0.8038 ms
 2023-02-08 20:15:42.547 +05:30 [INF] HTTP GET /WeatherForecast responded 200 in 0.3538 ms
+2023-02-08 20:41:50.175 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-08 20:41:50.200 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-08 20:41:50.203 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 20:41:50.205 +05:30 [INF] Hosting environment: Development
+2023-02-08 20:41:50.206 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-08 20:42:07.308 +05:30 [INF] HTTP GET /api/Countries responded 200 in 2079.9863 ms
+2023-02-08 20:46:25.367 +05:30 [INF] HTTP POST /api/Countries responded 400 in 41.3127 ms
+2023-02-08 20:50:31.305 +05:30 [INF] HTTP POST /api/Countries responded 400 in 22.6455 ms
+2023-02-08 20:51:08.243 +05:30 [INF] HTTP POST /api/Countries responded 400 in 1.3414 ms
+2023-02-08 22:07:40.562 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-08 22:07:40.600 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-08 22:07:40.604 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 22:07:40.607 +05:30 [INF] Hosting environment: Development
+2023-02-08 22:07:40.608 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-08 22:07:54.049 +05:30 [INF] HTTP GET /api/Countries responded 200 in 1694.1928 ms
+2023-02-08 22:10:27.963 +05:30 [INF] HTTP GET /api/Countries responded 200 in 22.8503 ms
+2023-02-08 22:10:29.212 +05:30 [INF] HTTP GET /api/Countries responded 200 in 42.7915 ms
+2023-02-08 22:10:36.312 +05:30 [INF] HTTP GET /api/Countries responded 200 in 6.8934 ms
+2023-02-08 22:10:36.349 +05:30 [INF] HTTP GET /favicon.ico responded 404 in 0.0927 ms
+2023-02-08 22:40:57.909 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-08 22:40:57.975 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-08 22:40:57.982 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 22:40:57.985 +05:30 [INF] Hosting environment: Development
+2023-02-08 22:40:57.988 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-08 22:41:47.455 +05:30 [INF] HTTP GET /api/countries responded 200 in 2148.1902 ms
+2023-02-08 22:43:44.505 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-08 22:43:44.565 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-08 22:43:44.570 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 22:43:44.573 +05:30 [INF] Hosting environment: Development
+2023-02-08 22:43:44.575 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-08 22:43:48.699 +05:30 [INF] HTTP GET /api/countries responded 200 in 1767.1879 ms
+2023-02-08 22:43:52.642 +05:30 [INF] HTTP GET /api/countries/1 responded 200 in 315.5159 ms
+2023-02-08 22:44:12.660 +05:30 [INF] HTTP POST /api/countries responded 201 in 430.2204 ms
+2023-02-08 22:44:38.481 +05:30 [INF] HTTP POST /api/countries responded 201 in 48.7947 ms
+2023-02-08 22:44:52.623 +05:30 [INF] HTTP POST /api/countries responded 201 in 45.6811 ms
+2023-02-08 22:47:18.011 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-08 22:47:18.058 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-08 22:47:18.062 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 22:47:18.065 +05:30 [INF] Hosting environment: Development
+2023-02-08 22:47:18.067 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-08 22:47:35.419 +05:30 [INF] HTTP POST /api/countries responded 400 in 182.0065 ms
+2023-02-08 22:48:03.822 +05:30 [INF] HTTP POST /api/countries responded 201 in 1692.6594 ms
+2023-02-08 22:48:10.231 +05:30 [INF] HTTP POST /api/countries responded 201 in 133.2838 ms
