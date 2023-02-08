@@ -1,0 +1,20 @@
+2023-02-09 00:00:59.198 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-09 00:00:59.313 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-09 00:00:59.317 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-09 00:00:59.319 +05:30 [INF] Hosting environment: Development
+2023-02-09 00:00:59.321 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-09 00:01:01.997 +05:30 [INF] HTTP POST /api/countries responded 400 in 573.1587 ms
+2023-02-09 00:01:04.563 +05:30 [INF] HTTP POST /api/countries responded 400 in 13.7628 ms
+2023-02-09 00:01:15.965 +05:30 [INF] HTTP GET /api/countries responded 200 in 2670.3165 ms
+2023-02-09 00:01:22.203 +05:30 [INF] HTTP GET /api/countries/2 responded 200 in 249.5486 ms
+2023-02-09 00:04:42.223 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-09 00:04:42.304 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-09 00:04:42.309 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-09 00:04:42.311 +05:30 [INF] Hosting environment: Development
+2023-02-09 00:04:42.314 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-09 00:04:50.411 +05:30 [INF] HTTP GET /api/countries/2 responded 200 in 2840.4407 ms
+2023-02-09 00:04:59.898 +05:30 [INF] HTTP GET /api/countries/5 responded 200 in 46.5988 ms
+2023-02-09 00:05:07.100 +05:30 [INF] HTTP GET /api/countries/3 responded 200 in 120.7626 ms
+2023-02-09 00:05:09.849 +05:30 [INF] HTTP GET /api/countries/2 responded 200 in 7.4671 ms
+2023-02-09 00:05:13.437 +05:30 [INF] HTTP GET /api/countries/3 responded 200 in 37.2762 ms
+2023-02-09 00:05:13.793 +05:30 [INF] HTTP GET /api/countries/3 responded 200 in 6.0450 ms
