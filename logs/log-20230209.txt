@@ -44,3 +44,9 @@
 2023-02-09 13:41:25.552 +05:30 [INF] Hosting environment: Development
 2023-02-09 13:41:25.553 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
 2023-02-09 13:41:33.602 +05:30 [INF] HTTP GET /api/Countries responded 200 in 2591.5937 ms
+2023-02-09 14:35:46.184 +05:30 [INF] Now listening on: https://localhost:7119
+2023-02-09 14:35:46.237 +05:30 [INF] Now listening on: http://localhost:5098
+2023-02-09 14:35:46.241 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-09 14:35:46.245 +05:30 [INF] Hosting environment: Development
+2023-02-09 14:35:46.248 +05:30 [INF] Content root path: D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API
+2023-02-09 14:36:13.860 +05:30 [INF] HTTP GET /api/Hotels responded 200 in 2602.9330 ms
