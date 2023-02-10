@@ -289,3 +289,7 @@ D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\runt
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\AutoMapper.dll
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\SMBios\Training\Udemy\Ultimate Web API\HotelListing.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
