@@ -8,7 +8,7 @@ namespace HotelListing.API.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<IdentityRole> builder)
         {
-            //builder.ToTable("");//If we want to rename table name
+            // builder.ToTable("");//If we want to rename table name
             builder.HasData(
                 new IdentityRole
                 {
