@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DFjOf3r0Trrjt/JI2RYc1VYNTg4QCIbNKMdtqwoyPF1zgY9EPflKBusFAJt1EChUwsyipm72F9ZA/NybKfPLMQ==",
+  "dgSpecHash": "u3ApuW00BzqVufNbbR/zQtXMMtONtQfNTLrGYWf8KMzGZN82+PrDTqAvo02MTFfyGfYCXJLhMyn0ssRKZYxa2g==",
   "success": true,
   "projectFilePath": "D:\\SMBios\\Training\\Udemy\\Ultimate Web API\\HotelListing.API\\HotelListing.API.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "C:\\Users\\misal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.2\\microsoft.aspnetcore.cryptography.internal.7.0.2.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.2\\microsoft.aspnetcore.cryptography.keyderivation.7.0.2.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.2\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -53,6 +56,8 @@
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.2\\microsoft.extensions.identity.core.7.0.2.nupkg.sha512",
+    "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.2\\microsoft.extensions.identity.stores.7.0.2.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\misal\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
